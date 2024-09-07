@@ -1,0 +1,35 @@
+body
+{
+    background-color:#ac2e38;
+}
+.navbar {
+    background-color:rgb(80, 79, 79);
+        margin: auto;
+        
+    
+}
+.nav-link {
+    color: white;
+}
+.ab p
+{
+    text-align: justify;
+}
+.card {
+    color: white;
+    background-color: rgb(181, 95, 95);
+    transition: transform 0.3s ease; 
+}
+.card:hover {
+    transform: scale(1.05); 
+}
+.card-img-top {
+    height: 30vh;
+    width: 100%; 
+    object-fit: cover; 
+}
+footer
+{
+    background-color: rgb(80, 79, 79);
+    text-align: center;
+}

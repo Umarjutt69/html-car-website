@@ -1,0 +1,32 @@
+body
+{
+    background-color: rgb(80, 79, 79);
+}
+.navbar
+{
+    background-color: rgb(80, 79, 79);
+}
+.nav-link
+{
+    color: white;
+}
+.carousel-inner img {
+    height: 95vh;
+    object-fit: cover; 
+}
+
+.carousel-caption  {
+    padding: auto;
+ }
+.carousel-caption h5 {
+   color: rgb(245, 239, 239);
+   
+}
+.carousel-caption p {
+    color: rgb(239, 232, 232);
+    margin-bottom: 300px;
+ }
+ footer
+ {
+    background-color: rgb(80, 79, 79);
+ }

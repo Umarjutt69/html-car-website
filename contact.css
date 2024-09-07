@@ -1,0 +1,20 @@
+.navbar
+{
+    background-color:rgb(80, 79, 79);
+}
+body
+{
+    background-color: #ac2e38;
+}
+footer
+{
+    background-color: rgb(80, 79, 79);
+}
+.invalid-feedback {
+    display: none;
+    color: white;
+}
+label
+{
+    color: white;
+}
